@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pinki876.github.io/digital-fattom-blog/sitemap.xml
